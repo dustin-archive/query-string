@@ -1,0 +1,19 @@
+{
+  "name": "@whaaaley/query-string",
+  "version": "0.1.0",
+  "description": "Encode and decode query strings",
+  "author": "Dustin Dowell <dustindowell22@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaaaley/query-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whaaaley/query-string/issues"
+  },
+  "homepage": "https://github.com/whaaaley/query-string#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}

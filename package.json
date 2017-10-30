@@ -5,6 +5,9 @@
   "author": "Dustin Dowell <dustindowell22@gmail.com>",
   "license": "MIT",
   "main": "index.js",
+  "scripts": {
+    "test": "rollup index.js -o bundle.js -f cjs && node test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/whaaaley/query-string.git"
@@ -14,6 +17,7 @@
   },
   "homepage": "https://github.com/whaaaley/query-string#readme",
   "devDependencies": {
+    "rollup": "^0.50.0",
     "tape": "^4.8.0"
   }
 }

@@ -1,5 +1,5 @@
 const tape = require('tape')
-const { encode, decode } = require('./bundle.js')
+const { decode, encode } = require('./bundle.js')
 
 const queryString1 = '?foo=bar'
 const queryString2 = '?foo=bar&baz=qux'

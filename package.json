@@ -1,6 +1,6 @@
 {
   "name": "@whaaaley/query-string",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Encode and decode query strings",
   "author": "Dustin Dowell <dustindowell22@gmail.com>",
   "license": "MIT",

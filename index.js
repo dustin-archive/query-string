@@ -1,5 +1,3 @@
-'use strict'
-
 function decode (query) {
   query = query.slice(1).split('&')
   var result = {}

@@ -10,6 +10,8 @@ npm i @whaaaley/query-string
 
 ## Usage
 
+Your module system needs to support es2015 modules to use this package.
+
 ### Decode
 
 ```js

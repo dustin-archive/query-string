@@ -1,4 +1,4 @@
-# query-string
+# @whaaaley/query-string
 
 > Encode and decode query strings
 
@@ -34,4 +34,4 @@ encode({
 
 ## Caveats
 
-+ You need to use `encodeURIComponent` yourself if you want to ensure your strings are URIs
++ You need to use `encodeURIComponent` and/or `decodeURIComponent` if your data isn't already a URI
